@@ -10,7 +10,7 @@ Create virtual environment using the following commands:
 //VUE FRONTEND
 The frontend has been created using vuejs and for vue to work we need to have nodejs installed
 After nodejs installation, install vue in the virtual environment using command: 
-npm install -g vue-cli
+=> npm install -g vue-cli
 After that create project using the following commands 
 1. vue init webpack frontend
 2. code . //will open the project frontend in vscode
@@ -24,6 +24,5 @@ For Django REST APIs installation use the following commands:
 3. django-admin startapp "apiname"
 4. python manage.py makemigrations
 5. python manage.py migrate
-6. python manage.py runserver
-
+6. python manage.py runserver //this command will start development server at http://127.0.0.1:8000/
 
