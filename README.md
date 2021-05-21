@@ -11,7 +11,8 @@ Create virtual environment using the following commands:
 The frontend has been created using vuejs and for vue to work we need to have nodejs installed
 After nodejs installation, install vue in the virtual environment using command: 
 => npm install -g vue-cli
-After that create project using the following commands 
+
+//After that create project using the following commands 
 1. vue init webpack frontend
 2. code . //will open the project frontend in vscode
 3. npm run dev //to run the application on http://localhost:8080/
